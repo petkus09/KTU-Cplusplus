@@ -1,0 +1,6 @@
+Pedagogika
+Abc, Abc, P-1/1 1988-09-11 moteris
+Bcd, Bcd, P-2/1 1913-08-12 moteris
+Cde, Cde, P-3/1 1997-06-13 moteris
+Def, Def, P-4/1 1991-04-08 moteris
+Efg, Efg, P-5/1 1990-12-21 moteris

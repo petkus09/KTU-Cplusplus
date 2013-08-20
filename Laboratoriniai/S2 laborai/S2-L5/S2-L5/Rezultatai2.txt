@@ -1,0 +1,11 @@
+/------------------------------------------------------------------------------------------------/
+Pavardë        Vardas         Grupë     Metai       Lytis     Paþymiai        Vidurkis     Fakultetas
+/------------------------------------------------------------------------------------------------/
+D d d d         D d d d       DT-6/4    1994-04-04  vyras       4  4  6  7  8     5.8     Dizaino Technologijos
+Kkkk            Kkkkkkk       S-3/9     1991-12-13  vyras       8  9 10  1  2       6     Elektros valdymas
+Uuuuu           Uuuuu         S-0/1     1990-02-09  vyras       6  7  8  9 10       8     Elektros valdymas
+Ddddddddd       D             IF-4/1    1993-04-28  vyras       4  5  6  7  8       6     Informatika
+Eeeee           eeEeeee       IF-5/1    1994-12-01  vyras       5  6  7  8  9       7     Informatika
+Cda             Cda           V-1/1     1990-01-01  vyras       6  7  8 10 10     8.2     Vadyba
+Neturi          Prasmes       V-3/3     1992-03-03  vyras       8  9 10  1  2       6     Vadyba
+/------------------------------------------------------------------------------------------------/

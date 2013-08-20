@@ -1,0 +1,73 @@
+--------------------------Laikrasciai-------------------------
+     -----Kodas-----|         -----Pavadinimas-----|-----kaina
+           123456789|                Gyvenimo budas|       2.6 Lt
+           165413484|                Lietuvos Rytas|       1.8 Lt
+           156841608|                    Respublika|         2 Lt
+           841561856|                 Vakaro Zinios|       0.5 Lt
+           984161986|                      Valstybe|         6 Lt
+           684168691|        Iliustruotasis mokslas|        10 Lt
+           919651984|            Ukininko patarejas|       1.4 Lt
+           988415961|                       Stilius|         6 Lt
+           951651681|                       PCgamer|        12 Lt
+           186168466|                      Akistata|       2.2 Lt
+           191655168|                 Rytai-Vakarai|         1 Lt
+           895589622|                            E!|       7.8 Lt
+           895589622|                        Petkus|      17.8 Lt
+------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------Pirkejai-------------------------------------------------------------------------
+   -----Pavarde-----|                       -----Adresas-----| -Pradzia-|  --Ilgis-|     -----Kodas-----|--Kiekis--
+    Aleksandravicius|                              Pusu g. 81|         6|        11|           186168466|         2
+           Petraitis|                               Rytu g. 2|         2|         6|           895589622|         7
+         Irmantaitis|                          Kalno g. 73-18|         1|        11|           165413484|         4
+         Sakalauskas|                           Taikos pr. 51|        11|         7|           123456789|         6
+              Kaseta|                          Vilties g. 132|         8|         5|           919651984|         1
+         Norkeliunas|                            Urmano g. 18|        12|        10|           684168691|         1
+          Ivanauskas|                             Pilies g. 3|         7|         5|           841561856|        12
+               Poska|                         Saules g. 18-13|         7|         6|           951651681|         2
+          Kryzmantas|                               Upes g. 2|        12|         7|           191655168|         7
+               Zukas|                           Vilnies g. 74|         9|         2|           156841608|        20
+             Sevilis|                             Ugnies g. 1|         7|        12|           123456789|         1
+         Mikailionis|                            Vytauto g. 6|         4|         7|           895589622|         1
+      Zmitrulevicius|                           Sauklio g. 12|         8|        11|           841561856|         3
+           Smutginas|                           Zalgirio g. 3|         1|        12|           165413484|         2
+       Valiukevicius|                          Jotvingiu g. 2|        10|         6|           919651984|         5
+            Jonaitis|                        Sauletekio g. 12|         8|         9|           123456789|         1
+             Vanagas|                              Balos g. 7|         3|         5|           919651984|         3
+        Lukasevicius|                             Ezero g. 15|         2|         4|           988415961|         2
+          Obolovskis|                            Krasto g. 81|        12|        12|           156841608|         1
+       Saulusevicius|                          Misko g. 14-18|         1|        12|           895589622|         1
+            Navickas|                           Studentu g. 2|         6|         7|           951651681|         1
+            Lukosius|                            Gatves g. 15|         2|         9|           919651984|         6
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------Menesio laikrasciai, gave daugiausiai pajamu ------------------------- 
+---------------------------------------------------------------------------------------------------- 
+              Sausis|                       PCgamer|        36 Lt
+             Vasaris|                            E!|     142.4 Lt
+               Kovas|                            E!|     142.4 Lt
+            Balandis|                            E!|     160.2 Lt
+              Geguþë|                            E!|     160.2 Lt
+            Birþelis|                            E!|     160.2 Lt
+               Liepa|                            E!|     160.2 Lt
+           Rugpjûtis|                            E!|     160.2 Lt
+            Rugsëjis|                    Respublika|        42 Lt
+              Spalis|                    Respublika|        42 Lt
+           Lapkritis|                    Respublika|        42 Lt
+             Gruodis|                       PCgamer|        36 Lt
+
+---------------------------------------------------------------------------------------------------- 
+------------------Laikraðèiai, kuriø pajamos maþesnës uþ vidutines---------------------------------- 
+----------------------------vidurkis : 268.443 Lt--------------------------------------------------- 
+     -----Kodas-----|         -----Pavadinimas-----|--------kaina|---------pajamos
+           951651681|                       PCgamer|        12 Lt|            264 Lt
+           684168691|        Iliustruotasis mokslas|        10 Lt|            110 Lt
+           988415961|                       Stilius|         6 Lt|             60 Lt
+           984161986|                      Valstybe|         6 Lt|              0 Lt
+           123456789|                Gyvenimo budas|       2.6 Lt|          223.6 Lt
+           186168466|                      Akistata|       2.2 Lt|           52.8 Lt
+           156841608|                    Respublika|         2 Lt|            146 Lt
+           165413484|                Lietuvos Rytas|       1.8 Lt|          133.2 Lt
+           919651984|            Ukininko patarejas|       1.4 Lt|          166.6 Lt
+           191655168|                 Rytai-Vakarai|         1 Lt|             56 Lt
+           841561856|                 Vakaro Zinios|       0.5 Lt|             54 Lt
+                    |                              |         0 Lt|              0 Lt

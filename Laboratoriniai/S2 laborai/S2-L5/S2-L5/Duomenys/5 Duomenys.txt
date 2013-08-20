@@ -1,0 +1,6 @@
+Dizaino Technologijos
+A a a a, A a a a, DT-9/1 1991-01-01 moteris
+B b b b, B b b b, DT-8/2 1992-02-02 vyras
+C c c c, C c c c, DT-7/3 1993-03-03 moteris
+D d d d, D d d d, DT-6/4 1994-04-04 vyras
+E e e e, E e e e, DT-5/5 1995-05-05 moteris

@@ -1,0 +1,17 @@
+﻿Build started 2011.09.12 19:51:51.
+     1>Project "C:\Users\Tautvydas\Desktop\C++ darbai\Pratybos\113_Bandymas\113_Bandymas\113_Bandymas.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\113_Bandymas.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 113_Bandymas.cpp
+         113_Bandymas.cpp
+     1>c:\users\tautvydas\desktop\c++ darbai\pratybos\113_bandymas\113_bandymas\113_bandymas.cpp(10): error C2668: 'sqrt' : ambiguous call to overloaded function
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(589): could be 'long double sqrt(long double)'
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(541): or       'float sqrt(float)'
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(127): or       'double sqrt(double)'
+                 while trying to match the argument list '(int)'
+     1>Done Building Project "C:\Users\Tautvydas\Desktop\C++ darbai\Pratybos\113_Bandymas\113_Bandymas\113_Bandymas.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.47

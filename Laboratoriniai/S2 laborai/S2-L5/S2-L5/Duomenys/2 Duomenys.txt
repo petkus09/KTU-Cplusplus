@@ -1,0 +1,6 @@
+Elektros valdymas
+Uuuuu, Uuuuu,     S-0/1 1990-02-09 vyras
+Rrrrr, Rrrr,      S-2/4 1998-12-07 moteris
+Kkkk, Kkkkkkk,    S-3/9 1991-12-13 vyras
+Sssss, Sss,       S-4/3 1988-03-28 moteris
+Tttttt, TT,       S-5/4 1981-04-01 moteris

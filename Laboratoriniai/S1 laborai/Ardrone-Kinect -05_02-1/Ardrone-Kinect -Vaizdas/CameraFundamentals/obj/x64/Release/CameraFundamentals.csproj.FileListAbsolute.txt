@@ -1,0 +1,8 @@
+C:\Users\ARDrone.Ryselis-PC.000\Desktop\Ardrone-Kinect -05_02-1\Ardrone-Kinect -Vaizdas\CameraFundamentals\obj\x64\Release\CameraFundamentals.csprojResolveAssemblyReference.cache
+C:\Users\ARDrone.Ryselis-PC.000\Desktop\Ardrone-Kinect -05_02-1\Ardrone-Kinect -Vaizdas\CameraFundamentals\obj\x64\Release\MainWindow.baml
+C:\Users\ARDrone.Ryselis-PC.000\Desktop\Ardrone-Kinect -05_02-1\Ardrone-Kinect -Vaizdas\CameraFundamentals\obj\x64\Release\MainWindow.g.cs
+C:\Users\ARDrone.Ryselis-PC.000\Desktop\Ardrone-Kinect -05_02-1\Ardrone-Kinect -Vaizdas\CameraFundamentals\obj\x64\Release\App.g.cs
+C:\Users\ARDrone.Ryselis-PC.000\Desktop\Ardrone-Kinect -05_02-1\Ardrone-Kinect -Vaizdas\CameraFundamentals\obj\x64\Release\MotionKinect_MarkupCompile.cache
+C:\Users\ARDrone.Ryselis-PC.000\Desktop\Ardrone-Kinect -05_02-1\Ardrone-Kinect -Vaizdas\CameraFundamentals\obj\x64\Release\MotionKinect.g.resources
+C:\Users\ARDrone.Ryselis-PC.000\Desktop\Ardrone-Kinect -05_02-1\Ardrone-Kinect -Vaizdas\CameraFundamentals\obj\x64\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\ARDrone.Ryselis-PC.000\Desktop\Ardrone-Kinect -05_02-1\Ardrone-Kinect -Vaizdas\CameraFundamentals\obj\x64\Release\CameraFundamentals.csproj.GenerateResource.Cache

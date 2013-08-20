@@ -1,0 +1,347 @@
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436
+     Cccccccc       | afafa6             | 21646168|  1 mën.|  8 mën. trukmë|   6 vnt.
+     Jjjjjjjj       | asfmaf 91          | 12345678|  9 mën.|  9 mën. trukmë|   2 vnt.
+-----------------------------------------------------------------------------
+864616841 | Jonaitis      | Jonas         | dshubgkunvd 122    | 841616357
+     Lauksaitis     | kznvsvn 3          | 65468476|  4 mën.| 12 mën. trukmë|   3 vnt.
+     Eeeeeeee       | asaf6              | 46984164|  5 mën.| 13 mën. trukmë|   7 vnt.
+-----------------------------------------------------------------------------
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435
+     Hhhhhhhh       | aflmalfm 12        | 65165468|  8 mën.|  7 mën. trukmë|   1 vnt.
+     Iiiiiiii       | asfn algnal 3-3    | 16546848|  4 mën.|  9 mën. trukmë|   3 vnt.
+-----------------------------------------------------------------------------
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134
+     Dddddddd       | agsghdhh5          | 16954687|  3 mën.| 20 mën. trukmë|   2 vnt.
+-----------------------------------------------------------------------------
+641643615 | Rimaitis      | Rimantas      | dsfjasnfjg 4       | 876941364
+     Urmaitis       | sfstgdg 5          | 65874631|  2 mën.| 14 mën. trukmë|   4 vnt.
+     Gggggggg       | safa fa 2          | 46841684|  8 mën.| 13 mën. trukmë|   4 vnt.
+-----------------------------------------------------------------------------
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874
+     Bbbbbbbb       | awfafine 3         | 97461967|  7 mën.| 13 mën. trukmë|   4 vnt.
+     Ffffffff       | asg agg 1          | 65498516|  7 mën.|  2 mën. trukmë|   9 vnt.
+-----------------------------------------------------------------------------
+ Aleksaitis  Aleksas
+-----------Leidiniai--------
+          Dddddddd       | agsghdhh5          | 16954687|  3 mën.| 20 mën. trukmë|   2 vnt.
+-----------Kruviai----------
+========================1-i metai==========================
+     1-o mënesio krûvis yra 0 leid.
+     2-o mënesio krûvis yra 0 leid.
+     3-o mënesio krûvis yra 2 leid.
+     4-o mënesio krûvis yra 2 leid.
+     5-o mënesio krûvis yra 2 leid.
+     6-o mënesio krûvis yra 2 leid.
+     7-o mënesio krûvis yra 2 leid.
+     8-o mënesio krûvis yra 2 leid.
+     9-o mënesio krûvis yra 2 leid.
+     10-o mënesio krûvis yra 2 leid.
+     11-o mënesio krûvis yra 2 leid.
+     12-o mënesio krûvis yra 2 leid.
+-------------------------------------------------------
+========================2-i metai==========================
+     13-o mënesio krûvis yra 2 leid.
+     14-o mënesio krûvis yra 2 leid.
+     15-o mënesio krûvis yra 2 leid.
+     16-o mënesio krûvis yra 2 leid.
+     17-o mënesio krûvis yra 2 leid.
+     18-o mënesio krûvis yra 2 leid.
+     19-o mënesio krûvis yra 2 leid.
+     20-o mënesio krûvis yra 2 leid.
+     21-o mënesio krûvis yra 2 leid.
+     22-o mënesio krûvis yra 2 leid.
+     23-o mënesio krûvis yra 0 leid.
+     24-o mënesio krûvis yra 0 leid.
+-------------------------------------------------------
+ Lukaitis  Lukas
+-----------Leidiniai--------
+          Bbbbbbbb       | awfafine 3         | 97461967|  7 mën.| 13 mën. trukmë|   4 vnt.
+          Ffffffff       | asg agg 1          | 65498516|  7 mën.|  2 mën. trukmë|   9 vnt.
+-----------Kruviai----------
+========================1-i metai==========================
+     1-o mënesio krûvis yra 0 leid.
+     2-o mënesio krûvis yra 0 leid.
+     3-o mënesio krûvis yra 0 leid.
+     4-o mënesio krûvis yra 0 leid.
+     5-o mënesio krûvis yra 0 leid.
+     6-o mënesio krûvis yra 0 leid.
+     7-o mënesio krûvis yra 13 leid.
+     8-o mënesio krûvis yra 13 leid.
+     9-o mënesio krûvis yra 4 leid.
+     10-o mënesio krûvis yra 4 leid.
+     11-o mënesio krûvis yra 4 leid.
+     12-o mënesio krûvis yra 4 leid.
+-------------------------------------------------------
+========================2-i metai==========================
+     13-o mënesio krûvis yra 4 leid.
+     14-o mënesio krûvis yra 4 leid.
+     15-o mënesio krûvis yra 4 leid.
+     16-o mënesio krûvis yra 4 leid.
+     17-o mënesio krûvis yra 4 leid.
+     18-o mënesio krûvis yra 4 leid.
+     19-o mënesio krûvis yra 4 leid.
+     20-o mënesio krûvis yra 0 leid.
+     21-o mënesio krûvis yra 0 leid.
+     22-o mënesio krûvis yra 0 leid.
+     23-o mënesio krûvis yra 0 leid.
+     24-o mënesio krûvis yra 0 leid.
+-------------------------------------------------------
+ Petraitis  Petras
+-----------Leidiniai--------
+          Jjjjjjjj       | asfmaf 91          | 12345678|  9 mën.|  9 mën. trukmë|   2 vnt.
+          Cccccccc       | afafa6             | 21646168|  1 mën.|  8 mën. trukmë|   6 vnt.
+-----------Kruviai----------
+========================1-i metai==========================
+     1-o mënesio krûvis yra 6 leid.
+     2-o mënesio krûvis yra 6 leid.
+     3-o mënesio krûvis yra 6 leid.
+     4-o mënesio krûvis yra 6 leid.
+     5-o mënesio krûvis yra 6 leid.
+     6-o mënesio krûvis yra 6 leid.
+     7-o mënesio krûvis yra 6 leid.
+     8-o mënesio krûvis yra 6 leid.
+     9-o mënesio krûvis yra 2 leid.
+     10-o mënesio krûvis yra 2 leid.
+     11-o mënesio krûvis yra 2 leid.
+     12-o mënesio krûvis yra 2 leid.
+-------------------------------------------------------
+========================2-i metai==========================
+     13-o mënesio krûvis yra 2 leid.
+     14-o mënesio krûvis yra 2 leid.
+     15-o mënesio krûvis yra 2 leid.
+     16-o mënesio krûvis yra 2 leid.
+     17-o mënesio krûvis yra 2 leid.
+     18-o mënesio krûvis yra 0 leid.
+     19-o mënesio krûvis yra 0 leid.
+     20-o mënesio krûvis yra 0 leid.
+     21-o mënesio krûvis yra 0 leid.
+     22-o mënesio krûvis yra 0 leid.
+     23-o mënesio krûvis yra 0 leid.
+     24-o mënesio krûvis yra 0 leid.
+-------------------------------------------------------
+ Simaitis  Simas
+-----------Leidiniai--------
+          Iiiiiiii       | asfn algnal 3-3    | 16546848|  4 mën.|  9 mën. trukmë|   3 vnt.
+          Hhhhhhhh       | aflmalfm 12        | 65165468|  8 mën.|  7 mën. trukmë|   1 vnt.
+-----------Kruviai----------
+========================1-i metai==========================
+     1-o mënesio krûvis yra 0 leid.
+     2-o mënesio krûvis yra 0 leid.
+     3-o mënesio krûvis yra 0 leid.
+     4-o mënesio krûvis yra 3 leid.
+     5-o mënesio krûvis yra 3 leid.
+     6-o mënesio krûvis yra 3 leid.
+     7-o mënesio krûvis yra 3 leid.
+     8-o mënesio krûvis yra 4 leid.
+     9-o mënesio krûvis yra 4 leid.
+     10-o mënesio krûvis yra 4 leid.
+     11-o mënesio krûvis yra 4 leid.
+     12-o mënesio krûvis yra 4 leid.
+-------------------------------------------------------
+========================2-i metai==========================
+     13-o mënesio krûvis yra 1 leid.
+     14-o mënesio krûvis yra 1 leid.
+     15-o mënesio krûvis yra 0 leid.
+     16-o mënesio krûvis yra 0 leid.
+     17-o mënesio krûvis yra 0 leid.
+     18-o mënesio krûvis yra 0 leid.
+     19-o mënesio krûvis yra 0 leid.
+     20-o mënesio krûvis yra 0 leid.
+     21-o mënesio krûvis yra 0 leid.
+     22-o mënesio krûvis yra 0 leid.
+     23-o mënesio krûvis yra 0 leid.
+     24-o mënesio krûvis yra 0 leid.
+-------------------------------------------------------
+ Jonaitis  Jonas
+-----------Leidiniai--------
+          Lauksaitis     | kznvsvn 3          | 65468476|  4 mën.| 12 mën. trukmë|   3 vnt.
+          Eeeeeeee       | asaf6              | 46984164|  5 mën.| 13 mën. trukmë|   7 vnt.
+-----------Kruviai----------
+========================1-i metai==========================
+     1-o mënesio krûvis yra 0 leid.
+     2-o mënesio krûvis yra 0 leid.
+     3-o mënesio krûvis yra 0 leid.
+     4-o mënesio krûvis yra 3 leid.
+     5-o mënesio krûvis yra 10 leid.
+     6-o mënesio krûvis yra 10 leid.
+     7-o mënesio krûvis yra 10 leid.
+     8-o mënesio krûvis yra 10 leid.
+     9-o mënesio krûvis yra 10 leid.
+     10-o mënesio krûvis yra 10 leid.
+     11-o mënesio krûvis yra 10 leid.
+     12-o mënesio krûvis yra 10 leid.
+-------------------------------------------------------
+========================2-i metai==========================
+     13-o mënesio krûvis yra 10 leid.
+     14-o mënesio krûvis yra 10 leid.
+     15-o mënesio krûvis yra 10 leid.
+     16-o mënesio krûvis yra 7 leid.
+     17-o mënesio krûvis yra 7 leid.
+     18-o mënesio krûvis yra 0 leid.
+     19-o mënesio krûvis yra 0 leid.
+     20-o mënesio krûvis yra 0 leid.
+     21-o mënesio krûvis yra 0 leid.
+     22-o mënesio krûvis yra 0 leid.
+     23-o mënesio krûvis yra 0 leid.
+     24-o mënesio krûvis yra 0 leid.
+-------------------------------------------------------
+ Rimaitis  Rimantas
+-----------Leidiniai--------
+          Urmaitis       | sfstgdg 5          | 65874631|  2 mën.| 14 mën. trukmë|   4 vnt.
+          Gggggggg       | safa fa 2          | 46841684|  8 mën.| 13 mën. trukmë|   4 vnt.
+-----------Kruviai----------
+========================1-i metai==========================
+     1-o mënesio krûvis yra 0 leid.
+     2-o mënesio krûvis yra 4 leid.
+     3-o mënesio krûvis yra 4 leid.
+     4-o mënesio krûvis yra 4 leid.
+     5-o mënesio krûvis yra 4 leid.
+     6-o mënesio krûvis yra 4 leid.
+     7-o mënesio krûvis yra 4 leid.
+     8-o mënesio krûvis yra 8 leid.
+     9-o mënesio krûvis yra 8 leid.
+     10-o mënesio krûvis yra 8 leid.
+     11-o mënesio krûvis yra 8 leid.
+     12-o mënesio krûvis yra 8 leid.
+-------------------------------------------------------
+========================2-i metai==========================
+     13-o mënesio krûvis yra 8 leid.
+     14-o mënesio krûvis yra 8 leid.
+     15-o mënesio krûvis yra 8 leid.
+     16-o mënesio krûvis yra 4 leid.
+     17-o mënesio krûvis yra 4 leid.
+     18-o mënesio krûvis yra 4 leid.
+     19-o mënesio krûvis yra 4 leid.
+     20-o mënesio krûvis yra 4 leid.
+     21-o mënesio krûvis yra 0 leid.
+     22-o mënesio krûvis yra 0 leid.
+     23-o mënesio krûvis yra 0 leid.
+     24-o mënesio krûvis yra 0 leid.
+-------------------------------------------------------
+1-as menesis. Menesio vidurkis: 1
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   0 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   0 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+864616841 | Jonaitis      | Jonas         | dshubgkunvd 122    | 841616357|   0 leid. 
+641643615 | Rimaitis      | Rimantas      | dsfjasnfjg 4       | 876941364|   0 leid. 
+-----------------------------------------------------
+2-as menesis. Menesio vidurkis: 1.66667
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   0 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   0 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+864616841 | Jonaitis      | Jonas         | dshubgkunvd 122    | 841616357|   0 leid. 
+-----------------------------------------------------
+3-as menesis. Menesio vidurkis: 2
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   0 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+864616841 | Jonaitis      | Jonas         | dshubgkunvd 122    | 841616357|   0 leid. 
+-----------------------------------------------------
+4-as menesis. Menesio vidurkis: 3
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   0 leid. 
+-----------------------------------------------------
+5-as menesis. Menesio vidurkis: 4.16667
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   0 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   3 leid. 
+641643615 | Rimaitis      | Rimantas      | dsfjasnfjg 4       | 876941364|   4 leid. 
+-----------------------------------------------------
+6-as menesis. Menesio vidurkis: 4.16667
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   0 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   3 leid. 
+641643615 | Rimaitis      | Rimantas      | dsfjasnfjg 4       | 876941364|   4 leid. 
+-----------------------------------------------------
+7-as menesis. Menesio vidurkis: 6.33333
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   6 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   3 leid. 
+641643615 | Rimaitis      | Rimantas      | dsfjasnfjg 4       | 876941364|   4 leid. 
+-----------------------------------------------------
+8-as menesis. Menesio vidurkis: 7.16667
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   6 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   4 leid. 
+-----------------------------------------------------
+9-as menesis. Menesio vidurkis: 5
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   4 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   2 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   4 leid. 
+-----------------------------------------------------
+10-as menesis. Menesio vidurkis: 5
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   4 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   2 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   4 leid. 
+-----------------------------------------------------
+11-as menesis. Menesio vidurkis: 5
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   4 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   2 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   4 leid. 
+-----------------------------------------------------
+12-as menesis. Menesio vidurkis: 5
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   4 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   2 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   4 leid. 
+-----------------------------------------------------
+13-as menesis. Menesio vidurkis: 4.5
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   4 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   2 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   1 leid. 
+-----------------------------------------------------
+14-as menesis. Menesio vidurkis: 4.5
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   4 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   2 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   1 leid. 
+-----------------------------------------------------
+15-as menesis. Menesio vidurkis: 4.33333
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   4 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   2 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+-----------------------------------------------------
+16-as menesis. Menesio vidurkis: 3.16667
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   2 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+-----------------------------------------------------
+17-as menesis. Menesio vidurkis: 3.16667
+545646651 | Aleksaitis    | Aleksas       | sdgjhsj 1          | 865165134|   2 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   2 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+-----------------------------------------------------
+18-as menesis. Menesio vidurkis: 1.66667
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   0 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+864616841 | Jonaitis      | Jonas         | dshubgkunvd 122    | 841616357|   0 leid. 
+-----------------------------------------------------
+19-as menesis. Menesio vidurkis: 1.66667
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   0 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+864616841 | Jonaitis      | Jonas         | dshubgkunvd 122    | 841616357|   0 leid. 
+-----------------------------------------------------
+20-as menesis. Menesio vidurkis: 1
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   0 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   0 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+864616841 | Jonaitis      | Jonas         | dshubgkunvd 122    | 841616357|   0 leid. 
+-----------------------------------------------------
+21-as menesis. Menesio vidurkis: 0.333333
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   0 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   0 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+864616841 | Jonaitis      | Jonas         | dshubgkunvd 122    | 841616357|   0 leid. 
+641643615 | Rimaitis      | Rimantas      | dsfjasnfjg 4       | 876941364|   0 leid. 
+-----------------------------------------------------
+22-as menesis. Menesio vidurkis: 0.333333
+168431565 | Lukaitis      | Lukas         | sdadfjbfhaf 3      | 831646874|   0 leid. 
+321456461 | Petraitis     | Petras        | lasknfogn 123      | 836168436|   0 leid. 
+321654648 | Simaitis      | Simas         | dskgnsjklgh 2      | 816543435|   0 leid. 
+864616841 | Jonaitis      | Jonas         | dshubgkunvd 122    | 841616357|   0 leid. 
+641643615 | Rimaitis      | Rimantas      | dsfjasnfjg 4       | 876941364|   0 leid. 
+-----------------------------------------------------

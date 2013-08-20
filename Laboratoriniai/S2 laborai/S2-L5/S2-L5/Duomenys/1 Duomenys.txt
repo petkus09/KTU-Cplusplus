@@ -1,0 +1,6 @@
+Informatika
+Aaaaa, Aaaaa,    IF-1/1 1990-09-09 vyras
+Bbbbbb, Bbbb,    IF-2/1 1991-08-07 vyras
+Cccc, CCCccc,    IF-3/1 1992-06-13 vyras
+Ddddddddd, D,    IF-4/1 1993-04-28 vyras
+Eeeee, eeEeeee,  IF-5/1 1994-12-01 vyras

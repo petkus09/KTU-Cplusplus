@@ -1,0 +1,6 @@
+miestas,  valstybe, 32550 12500
+miestas1, Lietuva,  7550  7800
+miestas2, Vengrija, 15750 480500
+miestas3, valstybe, 3200  750500
+miestas7, Lietuva,  78550 8045
+miestas4, Lietuva,  3588  8045

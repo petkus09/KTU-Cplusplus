@@ -1,0 +1,26 @@
+﻿Build started 2011.09.26 18:16:58.
+     1>Project "C:\Users\Tautvydas\Desktop\C++ darbai\Pratybos\115_Bandymas\115_Bandymas\115_Bandymas.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\115_Bandymas.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 115_Bandymas.cpp
+         115_Bandymas.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tautvydas\Desktop\C++ darbai\Pratybos\115_Bandymas\Debug\115_Bandymas.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\115_Bandymas.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Tautvydas\Desktop\C++ darbai\Pratybos\115_Bandymas\Debug\115_Bandymas.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tautvydas\Desktop\C++ darbai\Pratybos\115_Bandymas\Debug\115_Bandymas.lib" /MACHINE:X86 Debug\115_Bandymas.exe.embed.manifest.res
+         Debug\115_Bandymas.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\115_Bandymas.exe.embed.manifest" /manifest Debug\115_Bandymas.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         115_Bandymas.vcxproj -> C:\Users\Tautvydas\Desktop\C++ darbai\Pratybos\115_Bandymas\Debug\115_Bandymas.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\115_Bandymas.unsuccessfulbuild".
+         Touching "Debug\115_Bandymas.lastbuildstate".
+     1>Done Building Project "C:\Users\Tautvydas\Desktop\C++ darbai\Pratybos\115_Bandymas\115_Bandymas\115_Bandymas.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.54

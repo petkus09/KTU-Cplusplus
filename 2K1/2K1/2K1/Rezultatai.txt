@@ -1,0 +1,36 @@
+Pradiniai duomenys:
+*******************
+Miestai:
+____________________________________________________________
+ Nr. Miestas   Valstybe  Gyv. Skaièius Plotas(kv. km)      
+============================================================
+  1. miestas   valstybe  32550         12500.00
+  2. miestas1  Lietuva   7550          7800.00
+  3. miestas2  Vengrija  15750         480500.00
+  4. miestas3  valstybe  3200          750500.00
+  5. miestas7  Lietuva   78550         8045.00
+  6. miestas4  Lietuva   3588          8045.00
+------------------------------------------------------------
+
+Rezultatai:
+**********
+Prieğ rikiavimà:
+Miestai:
+____________________________________________________________
+ Nr. Miestas   Valstybe  Gyv. Skaièius Plotas(kv. km)      
+============================================================
+  1. miestas1  Lietuva   7550          7800.00
+  2. miestas7  Lietuva   78550         8045.00
+  3. miestas4  Lietuva   3588          8045.00
+------------------------------------------------------------
+
+Po rikiavimo:
+Miestai:
+____________________________________________________________
+ Nr. Miestas   Valstybe  Gyv. Skaièius Plotas(kv. km)      
+============================================================
+  1. miestas4  Lietuva   3588          8045.00
+  2. miestas7  Lietuva   78550         8045.00
+  3. miestas1  Lietuva   7550          7800.00
+------------------------------------------------------------
+

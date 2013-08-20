@@ -1,0 +1,13 @@
+12
+Raudona,  -3 -2
+Zalia,    -6  2
+Raudona,  -5 10
+Zalia,     0 10
+Sviesi melyna,   0 12
+Sviesi melyna,   1  8
+Raudona,   2  3
+Zalia,     4  6
+Zalia,     4 11
+Raudona,   2 -3
+Raudona,   6  0
+Zalia,     6  2 

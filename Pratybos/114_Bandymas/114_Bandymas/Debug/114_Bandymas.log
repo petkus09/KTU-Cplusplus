@@ -1,0 +1,19 @@
+﻿Build started 2011.09.18 16:05:36.
+     1>Project "C:\Users\Tautvydas\Desktop\C++ darbai\Pratybos\114_Bandymas\114_Bandymas\114_Bandymas.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\114_Bandymas.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\114_Bandymas.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\114_Bandymas.cpp 114_Bandymas.cpp
+         114_Bandymas.cpp
+     1>c:\users\tautvydas\desktop\c++ darbai\pratybos\114_bandymas\114_bandymas\114_bandymas.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         114_Bandymas.cpp
+     1>c:\users\tautvydas\desktop\c++ darbai\pratybos\114_bandymas\114_bandymas.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\tautvydas\desktop\c++ darbai\pratybos\114_bandymas\114_bandymas.cpp(20): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+         Generating Code...
+     1>Done Building Project "C:\Users\Tautvydas\Desktop\C++ darbai\Pratybos\114_Bandymas\114_Bandymas\114_Bandymas.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.17
